@@ -11,9 +11,9 @@
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
 
-Click on any practical to jump directly to its program description.
+
 
 1. [Quadratic Equation Roots](#1-quadratic-equation-roots)
 2. [Prime Numbers](#2-prime-numbers)
@@ -33,7 +33,7 @@ Click on any practical to jump directly to its program description.
 
 ---
 
-## 🐍 Practical Programs
+## Practical Programs
 
 ### 1. Quadratic Equation Roots
 
